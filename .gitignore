@@ -2,3 +2,8 @@ lfw_blurred/
 lfw_funneled/
 tfrecords/
 weights/
+cats_and_dogs_filtered/
+model/
+new_lfw/
+new_lfw_blurred/
+new_lfw_funneled/
