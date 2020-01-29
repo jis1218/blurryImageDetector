@@ -2,7 +2,7 @@
 
 https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/
 
-##### data augumentation을 하니 확실히 학습이 잘 된다.
+##### data augumentation을 하니 확실히 학습이 잘 된다. 오버피팅이 일어나는 것을 막아주는 듯...
 ```python
 train_image_generator = ImageDataGenerator(rescale=1./255, #밑에 추가됨
                                           rotation_range=45,
